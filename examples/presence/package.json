@@ -9,7 +9,7 @@
   "author": "Josh Farrant <josh@farrant.me> (https://josh.farrant.me)",
   "license": "MIT",
   "dependencies": {
-    "@sipcentric/pbx-client": "^2.1.0",
+    "@sipcentric/pbx-client": "ajanes93/node-pbx-client#develop",
     "colors": "^1.3.3"
   }
 }
